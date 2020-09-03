@@ -17,14 +17,14 @@ https://www.notion.so/Labs-Curriculum-Checklist-433e55fbd2c742448de0aab41d910ebe
 [x]  Complete and turn in Module 1 Inquiry
 
 ### Wednesday
-[ ]  Attend engineering guided project
-[ ]  Work on and finish first draft of technical architecture documents
-[ ]  Work on user flows and wireframes for release 1
+[x]  Attend engineering guided project
+[x]  Work on and finish first draft of technical architecture documents
+[x]  Work on user flows and wireframes for release 1
 
 ### Thursday
-[ ]  Attend engineering critiques
-[ ]  Attend GitHub lesson
-[ ]  Set up your project locally
+[x]  Attend engineering critiques
+[x]  Attend GitHub lesson
+[x]  Set up your project locally
 [ ]  Finish and polish first draft of technical architecture documents
 [ ]  Complete and turn in Module 2 Inquiry
 
