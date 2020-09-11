@@ -25,10 +25,10 @@ https://www.notion.so/Labs-Curriculum-Checklist-433e55fbd2c742448de0aab41d910ebe
 [x]  Attend engineering critiques
 [x]  Attend GitHub lesson
 [x]  Set up your project locally
-[ ]  Finish and polish first draft of technical architecture documents
-[ ]  Complete and turn in Module 2 Inquiry
+[x]  Finish and polish first draft of technical architecture documents
+[x]  Complete and turn in Module 2 Inquiry
 
 ### Friday
-[ ]  Work on and submit Sprint Challenge 1
-[ ]  Meet with your TPL 1-1 and practice interview questions
-[ ]  Finish setting up your project locally
+[x]  Work on and submit Sprint Challenge 1
+[x]  Meet with your TPL 1-1 and practice interview questions
+[x]  Finish setting up your project locally
